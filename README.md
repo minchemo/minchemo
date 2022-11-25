@@ -12,7 +12,7 @@
                    
 Focusing on Flutter and Crypto.
 
-![image](https://media1.giphy.com/media/P9FCboDOCZSDC8uj95/giphy.gif)
+![image]((https://media3.giphy.com/media/cwId72u1KQY6tS6poX/giphy.gif)
 
 
 ## ₲ØØĐ ₴Ⱨł₮
