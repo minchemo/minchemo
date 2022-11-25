@@ -10,7 +10,7 @@
 
     
                    
-Focusing on Flutter and Crypto.
+Focusing on Flutter and blockchain.
 
 ![image](https://media3.giphy.com/media/cwId72u1KQY6tS6poX/giphy.gif)
 
