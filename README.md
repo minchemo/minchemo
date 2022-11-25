@@ -6,9 +6,14 @@
 ░▒▓███▀▒▒██▒   ░██▒
  ░▒   ▒ ░ ▒░   ░  ░
  
-                   
+               
+
+    
                    
 Focusing on Flutter and Crypto.
+
+![image](https://media0.giphy.com/media/IR9rszseHiu7nOH4og/giphy.gif)
+
 
 ## ₲ØØĐ ₴Ⱨł₮
 
