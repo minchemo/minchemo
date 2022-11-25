@@ -10,7 +10,7 @@
       ░        ░   
                    
                    
-
+Focusing on Flutter and Crypto.
 
 ## ₲ØØĐ ₴Ⱨł₮
 
